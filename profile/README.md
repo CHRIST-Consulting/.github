@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/CHRIST-Consulting/.github/refs/heads/main/profile/images/CC%201.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/CHRIST-Consulting/.github/refs/heads/main/profile/images/CICF_LOGO.png" alt="Logo">
     <h1 align="center">Where Experience Meets Excellence</h1>
 </p>
 
@@ -13,4 +13,5 @@
             <img align="left" style="padding-left: 15px;" src="https://raw.githubusercontent.com/CHRIST-Consulting/.github/refs/heads/main/profile/images/instagram.svg" alt="CHRIST Consulting | Instagram" width="21px"/>
         </a>
     </div>
+
 </p>
